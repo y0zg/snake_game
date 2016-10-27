@@ -1,5 +1,7 @@
 package com;
 //
+//
+//
 public class Display{
 
     private String lines[][] = new String[4][20];
