@@ -28,7 +28,7 @@ public class SimpleGame {
             } else if (keypressed.equals("d")) {
                 pos += 1;
             } else if (keypressed.equals("q")) {
-                System.out.println("You have quit the game.");
+                System.out.println("You have quit the game! ");
                 playing = false;
             } else {
                 System.out.println("\nplease use w a s d\n");
