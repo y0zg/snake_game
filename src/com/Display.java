@@ -1,5 +1,5 @@
 package com;
-//
+
 public class Display{
 
     private String lines[][] = new String[4][20];
@@ -33,5 +33,3 @@ public class Display{
         System.out.println(hWalls);
     }
 }
-
-
